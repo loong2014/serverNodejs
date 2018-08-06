@@ -1,0 +1,25 @@
+{
+  "name": "servernodejs",
+  "version": "1.0.0",
+  "description": "使用nodejs搭建远程服务器",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loong2014/serverNodejs.git"
+  },
+  "keywords": [
+    "serverNode"
+  ],
+  "author": "Sunny",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/loong2014/serverNodejs/issues"
+  },
+  "homepage": "https://github.com/loong2014/serverNodejs#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
